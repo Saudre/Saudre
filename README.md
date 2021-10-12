@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saudre but my real name is Alejandro Ruedas
 - 👀 I’m interested in Science, Math, Economy and History
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on AI or science projects
 - 📫 How to reach me: you can send me an e-mail to: alejandro.ruedas@87gmail.com or visit: www.saudre.com
 
